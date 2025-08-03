@@ -23,10 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://kleist-robotics.github.io"
-
-github:
-  username: Thomas-Kleist # change to your GitHub username
+url: "https://www.kleistrobotics.com"
 
 instagram:
   username: Kleist_Robotics # change to your instagram username
@@ -35,11 +32,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Thomas Kleist
-  email: kleistrobotics@gmail.com # change to your email address
+  email: thomas@kleistrobotics.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/Thomas-Kleist # change to your GitHub homepage
+    # - https://github.com/Thomas-Kleist # change to your GitHub homepage
     - https://www.youtube.com/@kleistrobotics2220
     - https://www.instagram.com/kleist_robotics/
     # - https://www.facebook.com/username
@@ -99,7 +96,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://lh3.googleusercontent.com/a/ACg8ocLXT38LauxL8oZ2Pw1ZvtS1ddHm-rZh5Un0s9D09ovGIWQFuFc=s288-c-no
+avatar: https://yt3.ggpht.com/h5W646c4VWQ_S4o5JmZiWLvOMGqhITutRa18ImQFU-B_iAYg_RYB8UYqhsSRupAvC2yidzY0Cw=s600-c-k-c0x00ffffff-no-rj-rp-mo
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
