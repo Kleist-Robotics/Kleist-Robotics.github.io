@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Kleist Robotics # the main title
 
-tagline: Welcome to Kleist Robotics! # it will display as the subtitle
+tagline: Building Dreams # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Welcome to Kleist Robotics! This page is devoted to robotics and animatronics of all types. This page is where I document my animatronic projects and robotic experiments. 
