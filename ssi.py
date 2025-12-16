@@ -61,7 +61,7 @@ def _generate(doc_root, fs, force_overwrite):
     '''
     Process xxx.shtml and generate xxx.html.
     '''
-    fh = fs[:-6] + '.html'
+    fh = os.path.join("html", fs[:-6] + '.html')
     print(f'generate {fs} to {fh}...')
     html = _expand_shtml(doc_root, fs)
     if os.path.exists(fh):
