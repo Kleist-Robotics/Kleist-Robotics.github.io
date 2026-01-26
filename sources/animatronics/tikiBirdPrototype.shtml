@@ -1,0 +1,17 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+      <div class="image bg-image order-2" style="background-image: url(images/animatronics/5.png); ">
+        <a href="https://www.youtube.com/watch?v=yvyRKrCmw_0" class="play-button popup-youtube  "><span
+            class="icon-play"></span></a>
+      </div>
+      <div class="text order-1">
+        <h2 class="site-heading text-black mb-3"><strong>Tiki Bird</strong> Prototypes</h2>
+        <p>This prototype of an advanced tiki bird neck and head features a 4 degree of freedom neck that can create realistic motion.</p>
+      </div>
+    </div>
+
+</div>
+
+  <!--#include file="footer.html" -->

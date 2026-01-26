@@ -59,8 +59,8 @@
           <div class="row align-items-center">
             <div class="col-6">
               <!-- <a href="#" class="p-2 pl-0"><span class="icon-twitter"></span></a>
-              <a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a> -->
-              <!-- <a href="#" class="p-2 pl-0"><span class="icon-tiktok"></span></a>  -->
+              <a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a>
+              <a href="#" class="p-2 pl-0"><span class="icon-linkedin"></span></a> -->
               <a href="https://www.instagram.com/kleist_robotics/" class="p-2 pl-0"><span class="icon-instagram"></span></a>
               <a href="https://www.youtube.com/@kleistrobotics2220" class="p-2 pl-0"><span class="icon-youtube"></span></a>
             </div>
@@ -92,14 +92,13 @@
                     <li>
                       <a href="index.html">Home</a>
                     </li>
-                    <li class="has-children">
-                      <a href="portfolio.html">Portfolio</a>
+                    <!-- <li class="has-children">
+                      <a href="/about.html">Company</a>
                       <ul class="dropdown arrow-top">
-                        <li><a href="animatronics.html">Animatronics</a></li>
-                        <li><a href="tracklessDarkRide.html">Trackless Dark Ride</a></li>
+                        <li><a href="/about.html">About</a></li>
+                        <li><a href="#">Thomas Kleist</a></li>
                       </ul>
-                    </li>
-                    <li><a href="socialMedia.html">Social Media</a></li>
+                    </li> -->
                     <li><a href="contact.html">Contact</a></li>
                   </ul>
                 </div>
@@ -197,9 +196,9 @@
 
     <div class="promo py-5 bg-primary" data-aos="fade" style="background-color: #fe8300 !important;">
       <div class="container text-center">
-        <h2 class="d-block mb-0 font-weight-light text-white"><a href="contact.html" class="text-white d-block">
-          Contact us
-        </a></h2>
+        <h2 class="d-block mb-0 font-weight-light text-white"><a href="contact.html" class="text-white d-block">Contact
+            us for
+            quotations</a></h2>
       </div>
     </div>
 
@@ -214,12 +213,6 @@
                 <h3 class="footer-heading mb-4">Navigation</h3>
                 <ul class="list-unstyled">
                   <li><a href="index.html">Home</a></li>
-                  <li><a href="portfolio.html">Portfolio</a></li>
-                  <ul>
-                    <li><a href="animatronics.html">Animatronics</a></li>
-                    <li><a href="tracklessDarkRide.html">Trackless Dark Ride</a></li>
-                  </ul>
-                  <li><a href="socialMedia.html">Social Media</a></li>
                   <li><a href="contact.html">Contact</a></li>
                 </ul>
               </div>

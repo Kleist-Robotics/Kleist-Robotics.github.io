@@ -1,0 +1,18 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+      <div class="image bg-image order-2" style="background-image: url(images/gravestoneAnimatronic.jpg); ">
+        <a href="https://www.youtube.com/watch?v=DFUC2flHGjE" class="play-button popup-youtube  "><span
+            class="icon-play"></span></a>
+      </div>
+      <div class="text order-1">
+        <h2 class="site-heading text-black mb-3"><strong>Werewolf</strong> Animatronic</h2>
+        <p class="lead">All electric, All thrills</p>
+        <p>The Kleist Robotics animatronic werewolf is an all electric, all terrifying animatronic. With integrated lighting, custom animations, and handcrafted gravestone, this animatronic is sure to be a hit. </p>
+      </div>
+    </div>
+
+</div>
+
+  <!--#include file="footer.html" -->

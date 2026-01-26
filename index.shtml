@@ -1,4 +1,113 @@
-<!--#include file="header.html" -->
+<!-- AUTO GENERATED HTML: DO NOT MODIFY MANUALLY -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KL0WVJH0EG"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'G-KL0WVJH0EG');
+  </script>
+
+
+  <title>Kleist Robotics</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+  <link rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Nunito+Sans:200,300,400,700,900|Roboto+Mono:300,400,500">
+  <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/magnific-popup.css">
+  <link rel="stylesheet" href="css/jquery-ui.css">
+  <link rel="stylesheet" href="css/owl.carousel.min.css">
+  <link rel="stylesheet" href="css/owl.theme.default.min.css">
+  <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+
+
+  <link rel="stylesheet" href="fonts/flaticon/font/flaticon.css">
+
+  <link rel="stylesheet" href="css/aos.css">
+
+  <link rel="stylesheet" href="css/style.css">
+
+</head>
+
+<body>
+
+  <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div> <!-- .site-mobile-menu -->
+
+
+    <div class="site-navbar-wrap bg-white">
+      <div class="site-navbar-top">
+        <div class="container py-2">
+          <div class="row align-items-center">
+            <div class="col-6">
+              <!-- <a href="#" class="p-2 pl-0"><span class="icon-twitter"></span></a>
+              <a href="#" class="p-2 pl-0"><span class="icon-facebook"></span></a>
+              <a href="#" class="p-2 pl-0"><span class="icon-linkedin"></span></a> -->
+              <a href="https://www.instagram.com/kleist_robotics/" class="p-2 pl-0"><span class="icon-instagram"></span></a>
+              <a href="https://www.youtube.com/@kleistrobotics2220" class="p-2 pl-0"><span class="icon-youtube"></span></a>
+            </div>
+            <div class="col-6">
+              <div class="d-flex ml-auto">
+                <a href="/contact.html" class="d-flex align-items-center ml-auto mr-4">
+                  <span class="icon-envelope mr-2"></span>
+                  <span class="d-none d-md-inline-block">info@kleistrobotics.com</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="site-navbar bg-light">
+        <div class="container py-1">
+          <div class="row align-items-center">
+            <div class="col-2">
+              <h2 class="mb-0 site-logo"><a href="index.html"><img src="images/Kleist Robotics.png"
+                    alt="Kleist Robotics" style="width: 400px;"></a></h2>
+            </div>
+            <div class="col-10">
+              <nav class="site-navigation text-right" role="navigation">
+                <div class="container">
+                  <div class="d-inline-block d-lg-none ml-md-0 mr-auto py-3"><a href="#"
+                      class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+
+                  <ul class="site-menu js-clone-nav d-none d-lg-block">
+                    <li>
+                      <a href="index.html">Home</a>
+                    </li>
+                    <!-- <li class="has-children">
+                      <a href="/about.html">Company</a>
+                      <ul class="dropdown arrow-top">
+                        <li><a href="/about.html">About</a></li>
+                        <li><a href="#">Thomas Kleist</a></li>
+                      </ul>
+                    </li> -->
+                    <li><a href="contact.html">Contact</a></li>
+                  </ul>
+                </div>
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="slide-one-item home-slider owl-carousel">
 
@@ -39,7 +148,7 @@
             <div class="col-md-10">
               <h1 class="mb-5"><strong>Animatronics</strong></h1>
               <p>
-                <a href="animatronics.html" class="btn btn-primary py-3 px-5 rounded-0">Learn More</a>
+                <a href="animatronics/animtronics.html" class="btn btn-primary py-3 px-5 rounded-0">Learn More</a>
                 <a href="contact.html" class="btn btn-white btn-outline-white py-3 px-5 rounded-0">Get In Touch</a>
               </p>
             </div>
@@ -113,7 +222,8 @@
             <h2 class="font-weight-light text-black display-4">Our Specialty</h2>
           </div>
           <div class="col-md-7 text-center">
-            <p>Kleist Robotics designs and builds themed entertainment technology. From ride systems to animatronics, Kleist Robotics can do it all.</p>
+            <p>We engineer and manufacture the highest quality entertainment technology on the market. With focus on
+              modularity and repairability, Kleist Robotics will support your attraction now and down the road.</p>
           </div>
         </div>
         <div class="row no-gutters align-items-stretch h-100">
@@ -124,8 +234,9 @@
               <div class="col-md-6 bg-light text">
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Trackless Dark Rides</h2>
-                  <p>Our innovative Kleist Robotics Trackless Dark Ride System provides a low cost and effective trackless ride system.</p>
-                  <p class="mb-0"><a href="animatronics.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                  <p>Our innovative Kleist Robotics Trackless Dark Ride System provides a low cost ride guaranteed to
+                    make your attraction a hit.</p>
+                  <p class="mb-0"><a href="animatronics/animtronics.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
               </div>
@@ -138,7 +249,7 @@
               <div class="col-md-6 bg-light text order-md-1 order-lg-2">
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Interactives</h2>
-                  <p>Our interactive designs brings attractions to the next level of immersion.</p>
+                  <p>Our interactive designs bring your attractions to the next level of immersion.</p>
                   <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
@@ -153,7 +264,7 @@
               <div class="col-md-6 bg-light text order-md-2 order-lg-1">
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Animatronics</h2>
-                  <p>We design and build custom animatronics that can be used as standalone attractions or combined with any other
+                  <p>We offer custom animatronics that can be used as standalone attractions or combined with any other
                     of the Kleist Robotics offerings.</p>
                   <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
@@ -168,7 +279,8 @@
               <div class="col-md-6 bg-light text order-md-1">
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Custom Solutions</h2>
-                  <p>Our engineering team will help you bring your visions to life. Schedule a meeting now to discuss your ideas.</p>
+                  <p>Our talented creative and engineering teams will help you bring your visions to life. Schedule a
+                    meeting now to discuss your ideas.</p>
                   <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
@@ -262,4 +374,62 @@
     </div>
        -->
 
-<!--#include file="footer.html" -->
+    <div class="promo py-5 bg-primary" data-aos="fade" style="background-color: #fe8300 !important;">
+      <div class="container text-center">
+        <h2 class="d-block mb-0 font-weight-light text-white"><a href="contact.html" class="text-white d-block">Contact
+            us for
+            quotations</a></h2>
+      </div>
+    </div>
+
+    <footer class="site-footer">
+      <div class="container">
+
+
+        <div class="row">
+          <div class="col-lg-7">
+            <div class="row">
+              <div class="col-6 col-md-4 col-lg-4 mb-5 mb-lg-0">
+                <h3 class="footer-heading mb-4">Navigation</h3>
+                <ul class="list-unstyled">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="contact.html">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="col-lg-5">
+            <div class="row mb-5">
+              <div class="col-md-12">
+                <h3 class="footer-heading mb-4">Contact</h3>
+              </div>
+              <div class="col-md-6" href="contact.html">
+                <a href="contact.html" class="d-flex align-items-center ml-auto mr-4">
+                  <span class="icon-envelope mr-2"></span>
+                  <span class="d-none d-md-inline-block">info@kleistrobotics.com</span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+  </div>
+
+  <script src="js/jquery-3.3.1.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/jquery-ui.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/jquery.countdown.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/bootstrap-datepicker.min.js"></script>
+  <script src="js/aos.js"></script>
+
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

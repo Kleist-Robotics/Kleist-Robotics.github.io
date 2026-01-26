@@ -57,11 +57,13 @@ def _expand_shtml(doc_root, fs):
     slines = [_expand_line(doc_root, line) for line in lines]
     return f'<!-- {AUTO_GENERATED} -->\n' + ''.join(slines)
 
-def _generate(doc_root, fs, force_overwrite):
+def _generate(doc_root, rel_path, fs, force_overwrite):
     '''
     Process xxx.shtml and generate xxx.html.
     '''
-    fh = os.path.join("html", fs[:-6] + '.html')
+    fn = fs
+    fs = os.path.join(rel_path, fs)
+    fh = os.path.join("html", fn[:-6] + '.html')
     print(f'generate {fs} to {fh}...')
     html = _expand_shtml(doc_root, fs)
     if os.path.exists(fh):
@@ -89,7 +91,7 @@ def generate(doc_root, rel_path, force_override):
                 generate(doc_root, next_rel_path, force_override)
         else:
             if f.endswith('.shtml'):
-                _generate(doc_root, os.path.join(rel_path, f), force_override)
+                _generate(doc_root, rel_path, f, force_override)
 
 def serve(doc_root, port):
     print(f'start httpd at {port}...')

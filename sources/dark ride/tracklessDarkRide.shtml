@@ -1,0 +1,62 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/darkRide/1.jpg); ">
+      <a href="https://www.youtube.com/watch?v=Pt27RXlIz3k" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+    
+    <div class="text order-1">
+      <h2 class="site-heading text-black mb-3">Trackless <strong>Dark Ride</strong></h2>
+      <p>This R&D project includes building a trackless vehicle system, integrating lighting and show effects, and including a laser gun system. Part one breaks down the ride electrical control system.</p>
+    </div>
+  </div>
+
+   <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/darkRide/2.jpg); ">
+      <a href="https://www.youtube.com/watch?v=smT45gBXLrA" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+        <p>Part two is where I first got the ride driving around, using a line follower system.</p>
+    </div>
+  </div>
+
+   <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/darkRide/3.jpg); ">
+      <a href="https://www.youtube.com/watch?v=CJp-80uh27c" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+        <p>In part three, I built a laser gun system to make the ride interactive.</p>
+    </div>
+  </div>
+
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/darkRide/4.jpg); ">
+      <a href="https://www.youtube.com/watch?v=GdylYC9uP-4" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+        <p>In part four, I use a arUco localization system to make the ride truly trackless.</p>
+    </div>
+  </div>
+
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/darkRide/5.jpg); ">
+      <a href="https://www.youtube.com/watch?v=F1tRm5UGOBg" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+        <p>In part five, I use UWB tracking to create the best possible ride experience.</p>
+    </div>
+  </div>
+
+</div>
+
+<!--#include file="footer.html" -->

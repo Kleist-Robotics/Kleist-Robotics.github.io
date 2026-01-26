@@ -1,0 +1,103 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+
+      <div class="container">
+        <div class="row mb-5 justify-content-center">
+          <div class="col-12 text-center">
+            <h2 class="font-weight-light text-black display-4">Animatronics</h2>
+          </div>
+          <div class="col-md-7 text-center">
+            <p>Kleist Robotics builds high quality animatronics. See our portfolio below.</p>
+          </div>
+        </div>
+
+        <div class="row no-gutters align-items-stretch h-100">
+
+          <div class="col-lg-6">
+            <div class="row no-gutters align-items-stretch h-100 half-sm">
+              <div class="col-md-6 bg-image order-md-2 bg-sm-height"
+                style="background-image: url('images/animatronics/Dinosaur.png');" data-aos="fade" data-aos-delay="400"></div>
+              <div class="col-md-6 bg-light text order-md-1">
+                <div class="p-4">
+                  <h2 class="h5 mb-3 text-black line-height-sm">Dinosaur</h2>
+                  <p>This dinosaur animatronic features a realistic skin and movement.</p>
+                  <p class="mb-0"><a href="dinosaur.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                        More</small></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+                    <div class="col-lg-6">
+            <div class="row no-gutters align-items-stretch h-100 half-sm">
+              <div class="col-md-6 bg-image order-md-2 bg-sm-height"
+                style="background-image: url('images/animatronics/Werewolf.png');" data-aos="fade" data-aos-delay="400"></div>
+              <div class="col-md-6 bg-light text order-md-1">
+                <div class="p-4">
+                  <h2 class="h5 mb-3 text-black line-height-sm">Werewolf</h2>
+                  <p>This life size animatronic features large movements, integrated lighting control, and custom theming.</p>
+                  <p class="mb-0"><a href="werewolf.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                        More</small></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6">
+            <div class="row no-gutters align-items-stretch h-100 half-sm">
+              <div class="col-md-6 bg-image bg-sm-height" style="background-image: url('images/animatronics/3.png');"
+                data-aos="fade" data-aos-delay="0"></div>
+              <div class="col-md-6 bg-light text">
+                <div class="p-4">
+                  <h2 class="h5 mb-3 text-black line-height-sm">Prairie Dog</h2>
+                  <p>This animatronic Prairie Dog features 3 degrees of freedom and integrated sound controller.</p>
+                  <p class="mb-0"><a href="prairieDog.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                        More</small></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+          <div class="col-lg-6">
+            <div class="row no-gutters align-items-stretch h-100 half-sm">
+              <div class="col-md-6 bg-image order-md-2 order-lg-1 bg-sm-height"
+                style="background-image: url('images/animatronics/5.png');" data-aos="fade" data-aos-delay="200"></div>
+              <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                  <h2 class="h5 mb-3 text-black line-height-sm">Tiki Bird Prototype</h2>
+                  <p>This prototype of an advanced tiki bird neck and head features a 4 degree of freedom neck that can create realistic motion.</p>
+                  <p class="mb-0"><a href="tikiBirdPrototype.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                        More</small></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+          <div class="col-lg-6">
+            <div class="row no-gutters align-items-stretch h-100 half-sm">
+              <div class="col-md-6 bg-image order-md-1 order-lg-2 bg-sm-height"
+                style="background-image: url('images/animatronics/4.png');" data-aos="fade" data-aos-delay="300"></div>
+              <div class="col-md-6 bg-light text order-md-2 order-lg-1">
+                <div class="p-4">
+                  <h2 class="h5 mb-3 text-black line-height-sm">Yabbit</h2>
+                  <p>This alien animatronic was our first step into the world of animatronics. It served as a test bench for advanced features so as head tracking and animation software,</p>
+                  <p class="mb-0"><a href="yabbit.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                        More</small></a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+
+<!--#include file="footer.html" -->

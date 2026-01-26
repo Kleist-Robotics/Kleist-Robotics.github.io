@@ -1,0 +1,38 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/animatronics/3.png); ">
+      <a href="https://www.youtube.com/watch?v=WV9jRHsy6lc" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+    
+    <div class="text order-1">
+      <h2 class="site-heading text-black mb-3"><strong>Prairie Dog</strong> Animatronic</h2>
+      <p>This animatronic features 3 degrees of freedom and an integrated sound controller.</p>
+    </div>
+  </div>
+
+   <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/animatronics/3.png); ">
+      <a href="https://www.youtube.com/watch?v=OMDYrNJKCZg" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+    </div>
+  </div>
+
+   <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+    <div class="image bg-image order-2" style="background-image: url(images/animatronics/3.png); ">
+      <a href="https://www.youtube.com/watch?v=oswGwk1RX_o" class="play-button popup-youtube  "><span
+          class="icon-play"></span></a>
+    </div>
+
+    <div class="text order-1">
+    </div>
+  </div>
+
+</div>
+
+<!--#include file="footer.html" -->

@@ -1,0 +1,63 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+
+    <div class="container">
+        <div class="row mb-5 justify-content-center">
+            <div class="col-12 text-center">
+                <h2 class="font-weight-light text-black display-4">Portfolio</h2>
+            </div>
+            <div class="col-md-7 text-center">
+                <p>Kleist Robotics has a large portfolio of advanced technical projects. Check them out below!</p>
+            </div>
+        </div>
+    </div>
+
+     <div>
+        <p></p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Animatronics</h2>
+                    <p>View our previous animatronics.</p>
+                    <p class="mb-0"><a href="animatronics.html" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p></p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Trackless Dark Ride</h2>
+                    <p>Our innovative Kleist Robotics Trackless Dark Ride System provides a low cost and effective trackless ride system.</p>
+                    <p class="mb-0"><a href="tracklessDarkRide.html" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p></p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Interactive Attractions</h2>
+                    <p>We have built interactive systems for attractions.</p>
+                    <p class="mb-0"><a href="index.html" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p></p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Robotics</h2>
+                    <p>View our R&D work in robotics.</p>
+                    <p class="mb-0"><a href="index.html" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+     </div>
+</div>
+
+<!--#include file="footer.html" -->

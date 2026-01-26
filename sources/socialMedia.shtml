@@ -1,0 +1,63 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+
+    <div class="container">
+        <div class="row mb-5 justify-content-center">
+            <div class="col-12 text-center">
+                <h2 class="font-weight-light text-black display-4">Social Media</h2>
+            </div>
+            <div class="col-md-7 text-center">
+                <p>Kleist Robotics is on Youtube, Instagram, and TikTok. Check us out below.</p>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Kleist Robotics</h2>
+                    <p>The Kleist Robotics website is where you will find the latest updates on projects and offerings.</p>
+                    <p class="mb-0"><a href="index.html" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Youtube</h2>
+                    <p>Find behind the scenes and projects logs on Youtube.</p>
+                    <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">Instagram</h2>
+                    <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+
+        <p>
+        <div class="row no-gutters align-items-stretch h-100 half-sm" style="justify-content: center;" href="#">
+            <div class="col-md-6 bg-light text order-md-1 order-lg-2">
+                <div class="p-4">
+                    <h2 class="h5 mb-3 text-black line-height-sm">TikTok</h2>
+                    <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Go Now</small></a></p>
+                </div>
+            </div>
+        </div>
+        </p>
+    </div>
+
+</div>
+
+<!--#include file="footer.html" -->

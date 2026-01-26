@@ -1,0 +1,17 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+      <div class="image bg-image order-2" style="background-image: url(images/animatronics/Dinosaur.png); ">
+        <a href="https://www.youtube.com/watch?v=oB5W9L0_ybo" class="play-button popup-youtube  "><span
+            class="icon-play"></span></a>
+      </div>
+      <div class="text order-1">
+        <h2 class="site-heading text-black mb-3"><strong>Dinosaur</strong> Animatronic</h2>
+        <p>This animatronic features a realistic skin and movement. Watch the build logs for this animatronic!</p>
+      </div>
+    </div>
+
+</div>
+
+  <!--#include file="footer.html" -->
