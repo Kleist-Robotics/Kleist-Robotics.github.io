@@ -1,0 +1,17 @@
+<!--#include file="header.html" -->
+
+<div class="site-section">
+  <div class="site-block-half d-block d-lg-flex site-block-video" data-aos="fade">
+      <div class="image bg-image order-2" style="background-image: url(images/darkRide/3.jpg); ">
+        <a href="https://www.youtube.com/watch?v=CJp-80uh27c" class="play-button popup-youtube  "><span
+            class="icon-play"></span></a>
+      </div>
+      <div class="text order-1">
+        <h2 class="site-heading text-black mb-3">Interactive <strong>Laser Gun</strong> System</h2>
+        <p>This project was building a laser gun system to integrate with the Kleist Robotics trackless dark ride system.</p>
+      </div>
+    </div>
+
+</div>
+
+  <!--#include file="footer.html" -->
