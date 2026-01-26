@@ -125,7 +125,7 @@
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Trackless Dark Rides</h2>
                   <p>Our innovative Kleist Robotics Trackless Dark Ride System provides a low cost and effective trackless ride system.</p>
-                  <p class="mb-0"><a href="animatronics.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                  <p class="mb-0"><a href="tracklessDarkRide.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
               </div>
@@ -139,7 +139,7 @@
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Interactives</h2>
                   <p>Our interactive designs brings attractions to the next level of immersion.</p>
-                  <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                  <p class="mb-0"><a href="interactive.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
               </div>
@@ -155,7 +155,7 @@
                   <h2 class="h5 mb-3 text-black line-height-sm">Animatronics</h2>
                   <p>We design and build custom animatronics that can be used as standalone attractions or combined with any other
                     of the Kleist Robotics offerings.</p>
-                  <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                  <p class="mb-0"><a href="animatronics.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
               </div>
@@ -169,7 +169,7 @@
                 <div class="p-4">
                   <h2 class="h5 mb-3 text-black line-height-sm">Custom Solutions</h2>
                   <p>Our engineering team will help you bring your visions to life. Schedule a meeting now to discuss your ideas.</p>
-                  <p class="mb-0"><a href="#" class=""><small class="text-uppercase font-weight-bold text-black">Read
+                  <p class="mb-0"><a href="contact.html" class=""><small class="text-uppercase font-weight-bold text-black">Read
                         More</small></a></p>
                 </div>
               </div>
@@ -195,7 +195,7 @@
               <li>Interactives</li>
               <li>Custom Solutions</li>
             </ul>
-            <p><a href="#" class="btn btn-outline-primary btn-sm rounded-0 p-2 px-4">See our portfolio</a></p>
+            <p><a href="portfolio.html" class="btn btn-outline-primary btn-sm rounded-0 p-2 px-4">See our portfolio</a></p>
           </div>
         </div>
       </div>
